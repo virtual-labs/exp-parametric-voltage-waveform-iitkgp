@@ -1,1 +1,1 @@
-## Experiment name
+## Parametric Analysis Of Impulse Voltage Waveform
