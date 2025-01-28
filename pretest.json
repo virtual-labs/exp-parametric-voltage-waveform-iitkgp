@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. In a series RLC circuit, the wave front and wave tail times are controlled by changing the value",
+      "answers": {
+        "a": "R only",
+        "b": "R and L simultaneously",
+        "c": "R and C simultaneously",
+        "d": "L and C simultaneously"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The relationship between the breakdown voltage V and gap d is normally given as",
+      "answers": {
+        "a": "d=kV<sup>2</sup>",
+        "b": "d=kV<sup>3</sup>",
+        "c": "d=kd",
+        "d": "d=kd<sup>n</sup>"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Switching surge is:",
+      "answers": {
+        "a": "high voltage dc",
+        "b": "high voltage ac",
+        "c": "short duration transient voltage",
+        "d": "hyperbolically dying voltage"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
