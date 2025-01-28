@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Insulators for high voltage applications are tested for",
+      "question": "1. Insulators for high voltage applications are tested for",
       "answers": {
         "a": "power frequency tests",
         "b": "impulse tests",
@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Impulse testing of transformers is done to determine the ability of",
+      "question": "2. Impulse testing of transformers is done to determine the ability of",
       "answers": {
         "a": "insulation to withstand transient voltages",
         "b": "bushings to withstand vibrations",
@@ -26,7 +26,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The electrical breakdown strength of insulating materials depends on",
+      "question": "3. The electrical breakdown strength of insulating materials depends on",
       "answers": {
         "a": "nature of applied voltage",
         "b": "imperfections in dielectric material",
