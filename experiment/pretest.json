@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. In a series RLC circuit, the wave front and wave tail times are controlled by changing the value",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "R only",
+        "b": "R and L simultaneously",
+        "c": "R and C simultaneously",
+        "d": "L and C simultaneously"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. The relationship between the breakdown voltage V and gap d is normally given as",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "d=kV<sup>2</sup>",
+        "b": "d=kV<sup>3</sup>",
+        "c": "d=kd",
+        "d": "d=kd<sup>n</sup>"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Switching surge is:",
+      "answers": {
+        "a": "high voltage dc",
+        "b": "high voltage ac",
+        "c": "short duration transient voltage",
+        "d": "hyperbolically dying voltage"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
